@@ -33,3 +33,4 @@ D:\juan\facultad\Sistemas Distribuidos\TPs\Casos_Practicos\APIs-RabbitMQ\Publish
 D:\juan\facultad\Sistemas Distribuidos\TPs\Casos_Practicos\APIs-RabbitMQ\PublisherAPI\PublisherAPI\obj\Debug\net8.0\PublisherAPI.pdb
 D:\juan\facultad\Sistemas Distribuidos\TPs\Casos_Practicos\APIs-RabbitMQ\PublisherAPI\PublisherAPI\obj\Debug\net8.0\PublisherAPI.genruntimeconfig.cache
 D:\juan\facultad\Sistemas Distribuidos\TPs\Casos_Practicos\APIs-RabbitMQ\PublisherAPI\PublisherAPI\obj\Debug\net8.0\ref\PublisherAPI.dll
+D:\juan\facultad\Sistemas Distribuidos\TPs\Casos_Practicos\APIs-RabbitMQ\PublisherAPI\PublisherAPI\obj\Debug\net8.0\PublisherAPI.sourcelink.json

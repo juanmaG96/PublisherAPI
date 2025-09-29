@@ -36,6 +36,7 @@ namespace PublisherAPI.Services
             //_connection = _connectionFactory.CreateConnection(rabbitUrl);
             _connection = _connectionFactory.CreateConnection();
             _channel = _connection.CreateModel();
+            _channel.ConfirmSelect();
 
             this.QueueName = QueueName != null ? QueueName : "QDefault";
 

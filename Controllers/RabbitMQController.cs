@@ -26,7 +26,7 @@ namespace PublisherAPI.Controllers
         [HttpPost("sendWithConfirmation")]
         public IActionResult PostMessageWithConfirmation([FromBody] ClassMessageRMQ message)
         {
-            bool confirmed = _rabbitMQService.SendMessageWithConfirmation( message);
+            bool confirmed = _rabbitMQService.SendMessageWithConfirmation(message);
 
             if (confirmed)
                 return Ok(new { success = true, info = "Mensaje confirmado por RabbitMQ" });
